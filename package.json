@@ -9,9 +9,9 @@
     "lint": "next lint"
   },
   "dependencies": {
-    "@pokedex/components": "^1.3.7",
-    "@pokedex/pokedex": "^1.2.8",
-    "@pokedex/utils": "^1.3.7",
+    "@pokedex/components": "^1.3.8",
+    "@pokedex/pokedex": "^1.2.9",
+    "@pokedex/utils": "^1.3.8",
     "@reduxjs/toolkit": "^1.9.7",
     "next": "14.0.3",
     "next-redux-wrapper": "^8.1.0",
